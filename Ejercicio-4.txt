@@ -1,0 +1,1 @@
+La restricción de que un álbum tiene varias canciones sólo la podemos representar con que, mínimo, tiene una canción.
