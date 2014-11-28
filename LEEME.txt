@@ -1,0 +1,1 @@
+Para abrir los archivos necesitaremos un programa que abra archivos con extensión ".dia"
