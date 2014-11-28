@@ -1,0 +1,2 @@
+a) Precio tendría que ser un campo de la entidad "medicamentos"
+b) Habría que crear una entidad que almacenase los atributos identificadores necesarios de una receta, y conectarla al conector receta para relacionarla con las entidades "medicamento", "médico" y "paciente"
