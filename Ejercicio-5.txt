@@ -1,0 +1,1 @@
+Se podría si metieramos en un mismo grupo o agregación las entidades "modelo" y "avión", y a continuación relacionando la entidad "técnico" con el grupo "modelo-avión"
